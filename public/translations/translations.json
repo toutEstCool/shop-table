@@ -1,0 +1,17 @@
+{
+  "en": {
+    "header": {
+      "header__btn": "Menu"
+    }
+  },
+  "ru": {
+    "header": {
+      "header__btn": "Меню"
+    }
+  },
+  "kg": {
+    "header": {
+      "header__btn": "Меню"
+    }
+  }
+}
